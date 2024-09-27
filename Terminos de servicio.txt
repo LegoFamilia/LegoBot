@@ -1,0 +1,23 @@
+ACUERDO DE TÉRMINOS DE SERVICIO
+
+Este Acuerdo de Términos de Servicio (el "Acuerdo") se comparte entre @koswy ("Propietario del Bot") y el usuario ("Usuario") del bot de Discord LegoBot (el "Bot").
+
+Al utilizar el Bot, el Usuario acepta estar sujeto a los términos de este Acuerdo. Si el Usuario no está de acuerdo con los términos de este Acuerdo, debe dejar de usar el Bot inmediatamente.
+
+ 1. Uso del Bot: El Propietario del Bot otorga al Usuario una licencia limitada, no exclusiva e intransferible para utilizar el Bot con fines personales o no comerciales.
+
+ 2. Uso prohibido: El Usuario no podrá utilizar el Bot de ninguna manera que viole las leyes, reglas o regulaciones aplicables o infrinja los derechos de cualquier tercero. El Usuario no podrá utilizar el Bot con fines comerciales sin el consentimiento expreso por escrito del Propietario del Bot.
+
+ 3. Limitación de responsabilidad: El Propietario del Bot no será responsable de ningún daño que surja del uso o la imposibilidad de usar el Bot, incluidos, entre otros, daños por pérdida de ganancias, pérdida de datos u otras pérdidas intangibles.
+
+ 4. Modificaciones al Bot: El Propietario del Bot puede modificar o descontinuar el Bot en cualquier momento sin previo aviso. El Usuario acepta que el Propietario del Bot no será responsable ante el Usuario ni ante ningún tercero por cualquier modificación, suspensión o discontinuación del Bot.
+
+ 5. Propiedad intelectual: El Bot y todos los derechos de propiedad intelectual que contiene son y seguirán siendo propiedad del Propietario del Bot.  El Usuario acepta no copiar, modificar o distribuir el Bot o cualquier parte del mismo sin el consentimiento expreso por escrito del Propietario del Bot.
+
+ 6. Indemnización: El Usuario acepta indemnizar y eximir de responsabilidad al Propietario del Bot, sus afiliados y sus respectivos directores, funcionarios, empleados y agentes de todos y cada uno de los reclamos, daños, responsabilidades, costos y gastos, incluidos los honorarios razonables de los abogados. Que surja del uso del Bot por parte del Usuario.
+
+ 7. Rescisión: Este Acuerdo puede ser rescindido por cualquiera de las partes en cualquier momento y por cualquier motivo. Tras la terminación, el Usuario deberá cesar inmediatamente todo uso del Bot.
+
+ 8. Acuerdo completo: Este Acuerdo constituye el acuerdo completo entre las partes y reemplaza todos los acuerdos o representaciones anteriores o contemporáneos, ya sean escritos u orales, relacionados con el Bot.
+
+Al utilizar el Bot, el Usuario reconoce que ha leído este Acuerdo, lo comprende y acepta regirse por sus términos y condiciones.
